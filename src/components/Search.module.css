@@ -1,0 +1,19 @@
+.search{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    text-shadow:10px 8px 6px rgb(108, 104, 104);
+}
+.input{
+    padding: 10px 20px;
+    width: 30%;
+    /* text-align: center; */
+    font-size: large;
+    border: none;
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+    outline: none;
+    background-color: bisque;
+}

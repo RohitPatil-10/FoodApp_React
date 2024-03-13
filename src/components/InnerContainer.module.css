@@ -1,0 +1,5 @@
+.childContainer{
+    /* This will giv every chaild component equal width and aquire all space of parent component */
+    flex: 1;
+    margin: 10px;
+}
